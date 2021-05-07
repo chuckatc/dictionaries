@@ -1,0 +1,9 @@
+[submodule "didoesdigital_steno-dictionaries"]
+	path = didoesdigital_steno-dictionaries
+	url = https://github.com/didoesdigital/steno-dictionaries.git
+[submodule "EPLHREU_emily-symbols"]
+	path = EPLHREU_emily-symbols
+	url = https://github.com/EPLHREU/emily-symbols.git
+[submodule "openstenoproject_stenodict"]
+	path = openstenoproject_stenodict
+	url = https://github.com/openstenoproject/stenodict.git
