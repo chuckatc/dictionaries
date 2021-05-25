@@ -7,3 +7,6 @@
 [submodule "openstenoproject_stenodict"]
 	path = openstenoproject_stenodict
 	url = https://github.com/openstenoproject/stenodict.git
+[submodule "EPLHREU_emily-modifiers"]
+	path = EPLHREU_emily-modifiers
+	url = https://github.com/EPLHREU/emily-modifiers.git
