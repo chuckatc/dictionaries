@@ -10,3 +10,6 @@
 [submodule "EPLHREU_emily-modifiers"]
 	path = EPLHREU_emily-modifiers
 	url = https://github.com/EPLHREU/emily-modifiers.git
+[submodule "Jade-GG_plover_phrasing"]
+	path = Jade-GG_plover_phrasing
+	url = https://github.com/Jade-GG/plover_phrasing.git
