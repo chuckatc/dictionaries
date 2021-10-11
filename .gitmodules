@@ -13,3 +13,6 @@
 [submodule "Jade-GG_plover_phrasing"]
 	path = Jade-GG_plover_phrasing
 	url = https://github.com/Jade-GG/plover_phrasing.git
+[submodule "JorWat25_dictionaries"]
+	path = JorWat25_dictionaries
+	url = https://github.com/JorWat25/dictionaries.git
