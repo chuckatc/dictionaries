@@ -16,3 +16,6 @@
 [submodule "JorWat25_dictionaries"]
 	path = JorWat25_dictionaries
 	url = https://github.com/JorWat25/dictionaries.git
+[submodule "aerickt_aerick-phrasing"]
+	path = aerickt_aerick-phrasing
+	url = https://github.com/aerickt/aerick-phrasing.git
