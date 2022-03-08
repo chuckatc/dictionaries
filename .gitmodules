@@ -19,3 +19,6 @@
 [submodule "aerickt_aerick-phrasing"]
 	path = aerickt_aerick-phrasing
 	url = https://github.com/aerickt/aerick-phrasing.git
+[submodule "4hrue2kd83f_abby-left-hand-modifiers"]
+	path = 4hrue2kd83f_abby-left-hand-modifiers
+	url = https://github.com/4hrue2kd83f/abby-left-hand-modifiers.git
